@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This will be my first website I create with Jekyll. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+We'll see how this goes. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jmvenega@ncsu.com](mailto:jmvenega@ncsu.com)
